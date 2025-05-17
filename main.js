@@ -17,7 +17,7 @@
   
     /**************** CONFIG ****************/
     const BACKEND_ENDPOINT = 'https://api.zetatechs.com/v1/chat/completions';
-    const OPENAI_API_KEY = 'sk-MqVN1qu49Y0lxmNzD56ll6r9cPnsAE3yIULxgalwUiTt6X7M'; // 请将此处替换为您的实际 API 密钥
+    const OPENAI_API_KEY = 'XXXXXXXXXXX'; // 请将此处替换为您的实际 API 密钥
     const BATCH_SIZE = 20;
     const BATCH_TIMEOUT = 500; // ms
     const KEEP_CATEGORIES = new Set(['正常', '未分类']);
